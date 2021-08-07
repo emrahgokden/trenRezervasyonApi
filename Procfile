@@ -1,1 +1,1 @@
-java -Dserver.port=$PORT $JAVA_OPTS -jar target/spring.boot.trenRezervasyon-0.0.1-SNAPSHOT.jar
+java -Dserver.port=$PORT $JAVA_OPTS -jar target/trenRezervasyon-0.0.1-SNAPSHOT.jar

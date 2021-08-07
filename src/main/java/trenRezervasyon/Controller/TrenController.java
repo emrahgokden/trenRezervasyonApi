@@ -68,4 +68,11 @@ public class TrenController {
 		
 		return rezervasyonSonuc;
 	}
+	
+	@RequestMapping(value = "/merhaba",
+			method = RequestMethod.GET)
+	public String merhaba()
+	{
+		return "Merhaba";
+	}
 }
